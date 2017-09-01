@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Architecture Components</string>
+
+    <!-- User details column names-->
+    <string name="user_row_title_username">Username</string>
+    <string name="user_row_title_email">Email</string>
+    <string name="user_row_title_address">Address</string>
+    <string name="user_row_title_phone">Phone</string>
+    <string name="user_row_title_website">Website</string>
+    <string name="user_row_title_company">Company</string>
+
+</resources>
